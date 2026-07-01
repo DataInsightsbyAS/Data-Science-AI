@@ -19,11 +19,16 @@ Graphical representation to reveal trends, regional patterns, and relationships 
 **Tools and Technologies**
 <br>
 Python
+<br>
 Jupyter Notebook
+<br>
 Pandas
+<br>
 NumPy
+<br>
 seaborn
-matplotlib.pyplot
+<br>
+matplotlib
 <br>
 
 **Author**
