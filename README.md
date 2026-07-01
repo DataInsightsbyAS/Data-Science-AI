@@ -12,6 +12,9 @@ Perform data cleaning and preprocessing.
 <br>
 Conduct exploratory data analysis (EDA).
 <br>
+Graphical representation to reveal trends, regional patterns, and relationships among key educational indicators.
+<br>
+
 
 **Tools and Technologies**
 <br>
@@ -19,6 +22,8 @@ Python
 Jupyter Notebook
 Pandas
 NumPy
+seaborn
+matplotlib.pyplot
 <br>
 
 **Author**
